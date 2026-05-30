@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Collections/Java-Collections.iml" filepath="$PROJECT_DIR$/Java-Collections/Java-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda-challenge/Lambda-challenge.iml" filepath="$PROJECT_DIR$/Lambda-challenge/Lambda-challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-masterclass.iml" filepath="$PROJECT_DIR$/.idea/java-masterclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda-challenge/lambda_exp_challenge2/lambda_exp_challenge2.iml" filepath="$PROJECT_DIR$/Lambda-challenge/lambda_exp_challenge2/lambda_exp_challenge2.iml" />
     </modules>
   </component>
 </project>
