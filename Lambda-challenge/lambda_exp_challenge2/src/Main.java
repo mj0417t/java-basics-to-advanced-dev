@@ -6,7 +6,7 @@ import java.util.Random;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-    private static Random random = new Random();
+    private static final Random random = new Random();
     public static void main(String[] args) {
         String[] names={"Anna", "Bob","Carole","David","Ed","Fred","Gary"};
         Arrays.setAll(names,i->names[i].toUpperCase());
@@ -25,11 +25,11 @@ public class Main {
         List<String > newList = new ArrayList<>(List.of(names));
         newList.removeIf(s->s.substring(0,s.indexOf(" ")).equals(s.substring(s.lastIndexOf(" ")+1)));
         System.out.println("-->remove names where first=last");
-        newList.forEach(s-> System.out.println(s));
+        newList.forEach(System.out::println);
     }
 
     public static char getRandomChar(char startChar, char endChar){
-        return (char) random.nextInt((int) startChar,(int) endChar+1);
+        return (char) random.nextInt(startChar,(int) endChar+1);
     }
 
     private static String getReversedName(String firstName){
