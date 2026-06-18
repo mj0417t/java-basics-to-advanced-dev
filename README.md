@@ -36,5 +36,7 @@ It serves as a structured record of my learning journey and progress in Java dev
 <br>     local types and anonumous classes
 <br>--Java Lambdas   
 <br>     Expressions, interface and method reference
+<br>     constructor interface
+<br>Threads
 </p>
 
