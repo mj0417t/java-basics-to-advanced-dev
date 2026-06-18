@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java-Collections/Java-Collections.iml" filepath="$PROJECT_DIR$/Java-Collections/Java-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_threads/04_threads.iml" filepath="$PROJECT_DIR$/04_threads/04_threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Collection_Interface/06_Collection_Interface.iml" filepath="$PROJECT_DIR$/06_Collection_Interface/06_Collection_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Streams/07_Streams.iml" filepath="$PROJECT_DIR$/07_Streams/07_Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Java-Collections/Java-Collections.iml" filepath="$PROJECT_DIR$/05_Java-Collections/Java-Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda-challenge/Lambda-challenge.iml" filepath="$PROJECT_DIR$/Lambda-challenge/Lambda-challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method_references/Method_references.iml" filepath="$PROJECT_DIR$/Method_references/Method_references.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-masterclass.iml" filepath="$PROJECT_DIR$/.idea/java-masterclass.iml" />
