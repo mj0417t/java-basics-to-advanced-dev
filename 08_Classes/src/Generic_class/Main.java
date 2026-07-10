@@ -27,6 +27,21 @@ public class Main {
         Pairs <String , Integer> pairsObj = new Pairs<>();
         pairsObj.put("Love",121);
         pairsObj.display();
+
+        Pairs<String,Integer> red=new Pairs<>();
+        Pairs<String, Integer> blue=new Pairs<>();
+        red.put("Red",1);
+        blue.put("Blue",2);
+
+        GenericMethod genericMethod= new GenericMethod();
+        genericMethod.printValue(red,blue);
+        genericMethod.printValue(red,red);
+//raw type object
+        GenericClassEx genericClassEx=new GenericClassEx();
+        genericClassEx.setValue(1);
+        genericClassEx.setValue("Stromgd");
+        genericClassEx.setValue(213.3431);
+
     }
 
 

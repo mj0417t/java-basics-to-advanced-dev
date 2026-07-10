@@ -4,6 +4,14 @@ public class Pairs <K,V>{
     private K key;
     private V val;
 
+    public V getVal() {
+        return val;
+    }
+
+    public K getKey() {
+        return key;
+    }
+
     public void put(K key, V val){
         this.key=key;
         this.val=val;
