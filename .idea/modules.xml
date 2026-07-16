@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/09_Interface/09_Interface.iml" filepath="$PROJECT_DIR$/09_Interface/09_Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/10_Reflection/10_Reflection.iml" filepath="$PROJECT_DIR$/10_Reflection/10_Reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/11_Annotations/11_Annotations.iml" filepath="$PROJECT_DIR$/11_Annotations/11_Annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Exception_Handling/12_Exception_Handling.iml" filepath="$PROJECT_DIR$/12_Exception_Handling/12_Exception_Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_Java-Collections/Java-Collections.iml" filepath="$PROJECT_DIR$/05_Java-Collections/Java-Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda-challenge/Lambda-challenge.iml" filepath="$PROJECT_DIR$/Lambda-challenge/Lambda-challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method_references/Method_references.iml" filepath="$PROJECT_DIR$/Method_references/Method_references.iml" />
